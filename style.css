@@ -1,0 +1,38 @@
+html {
+    background-color:#2478bd;
+    font-family:'Times New Roman', Times, serif;
+}
+body {
+    background-color:#4f8d57;
+    width: 600px;
+    margin: 0 auto;  
+    padding: 0 20px 20px 20px;
+    border: 5px dotted rgb(112, 78, 134);
+}
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 10%
+}
+img {
+    display: block;
+    margin: 0 auto;
+    width: 66.7%
+}
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+.bold {
+    font-weight: bold;
+}
+li.bold {
+    font-style: italic;
+}
+p.bold{
+    text-decoration: underline;
+}
+div.coolbox {
+    border:ridge;
+}
